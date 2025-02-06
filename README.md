@@ -1,5 +1,12 @@
 # GPT Chat Bot
 
+## Why did I make this
+I initially decided to create this as a school project, but after a short while, I found myself really getting into it and decided to make it fully functional. I'm very proud of what I created. While it may not be fully complete by many standards, I’m confident in what I’ve learned and happy with the finished product. I can confidently say that I now understand enough about how GPT operates to at least discuss it, and that was really my end goal. I was never interested in becoming a dedicated ML/AI developer, but with the technology advancing so rapidly, I wanted to at least understand what it is and how it works.
+
+It's kind of funny. Everyone online describes AI as the job killer, but it really boils down to simply text prediction on TRT—for breakfast, lunch, and dinner. Obviously, that’s a simplification of the intricate and technological genius required to create this technology, but at this stage, that’s really all it’s good at.
+
+As a side note, my experience is strictly with chat-related AI. I have no interest in deep-diving into other ML topics, and I’m very happy with the knowledge I’ve gained. I am both excited and terrified for the future of AI. It’s a spectacular journey, and I’m here for it.
+
 ## Description
 This is a Discord bot that uses OpenAI’s API to respond to user queries with classified tone and context management.
 
